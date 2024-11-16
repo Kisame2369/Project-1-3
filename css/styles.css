@@ -128,6 +128,10 @@ header{
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.studio-link {
+    color: #404bbf;
+}
+
 .navigation-link::after {
     content: "";
     width: 100%;
@@ -347,7 +351,7 @@ header{
 
 .link-icon-third-section:hover,
 .link-icon-third-section:focus {
-    background-color: #31D0AA;
+    background-color: #404bbf;
     cursor: pointer;
 }
 
@@ -458,10 +462,12 @@ header{
 
 .footer-part-one {
     margin-right: 120px;
+    align-items: baseline,
 }
 
 .footer-part-two{
     display: inline-block;
+    align-items: baseline,
 }
 
 .part-two-text {
@@ -498,7 +504,7 @@ header{
 }
 
 .link-icon-footer:hover,
-.icon-footer:focus {
+.link-icon-footer:focus {
     background-color: #31d0aa;
     cursor: pointer;
 }
