@@ -443,7 +443,7 @@ header{
 
 .footer-container{
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
 }
 
 .logo-footer{
@@ -462,12 +462,12 @@ header{
 
 .footer-part-one {
     margin-right: 120px;
-    align-items: baseline,
+    align-items: baseline;
 }
 
 .footer-part-two{
     display: inline-block;
-    align-items: baseline,
+    align-items: baseline;
 }
 
 .part-two-text {
