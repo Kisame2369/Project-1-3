@@ -128,10 +128,6 @@ header{
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.studio-link {
-    color: #404bbf;
-}
-
 .navigation-link::after {
     content: "";
     width: 100%;
